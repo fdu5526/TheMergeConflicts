@@ -13,8 +13,11 @@ We need to fix these conflicts, and in order to do so, we need to learn about ea
 
 
 To gain the right to dive into worlds, open up your computer terminal, and type
+	
 	git clone git@github.com:fdu5526/TheMergeConflicts.git
+
 	git pull origin master
 
 To dive into a world (a branch in Git), type
+	
 	git checkout <The name of a world>
